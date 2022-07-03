@@ -19,6 +19,9 @@ A dead simple type safe implementation of the async - await pattern in golang
     - Await()
     - AwaitWithTimeout()
 
+## Docs
+https://pkg.go.dev/github.com/F-bh/go-async#section-readme
+
 ## Examples
 ```
 package examples
