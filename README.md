@@ -1,4 +1,7 @@
 # go-async
+[![Documentation](https://godoc.org/github.com/F-bh/go-async?status.svg)](http://godoc.org/github.com/F-bh/go-async)
+[![Go Report Card](https://goreportcard.com/badge/github.com/F-bh/go-async)](https://goreportcard.com/report/github.com/F-bh/go-async)
+
 A dead simple type safe implementation of the async - await pattern in golang
 
 ## But why?
@@ -18,9 +21,6 @@ A dead simple type safe implementation of the async - await pattern in golang
 - 2 methods to await the result of a given "Future"
     - Await()
     - AwaitWithTimeout()
-
-## Docs
-https://pkg.go.dev/github.com/F-bh/go-async#section-readme
 
 ## Examples
 ```
